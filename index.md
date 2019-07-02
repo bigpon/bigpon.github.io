@@ -39,6 +39,10 @@ Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-8
 
 ## Education
 ---
+**Nagoya University**, Japan, *Oct 2017 - Present*.  
+Ph.D. candidate  
+Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)  
+
 **National Chiao Tung University**, Taiwan, *Sep 2019 - Aug 2011*.  
 Master of Science     
 Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-85435692), [Yih-Ru Wang](http://www.eed.nctu.edu.tw/en/faculty/prof/Wang-Yih-Ru-81296519)  
