@@ -2,19 +2,21 @@
 layout: default
 ---
 ### **Ph.D. candidate of Graduate School of Informatics, Nagoya University, Japan**  
-  
+
 ## About
 ---
-I'm a Ph.D. student in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my M.S and B.S. degrees in the school of communication engineering of National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as voice conversion, speech enhancement, speech bandwidth expansion.
+<p align="justify"> I’m a Ph.D. student in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my M.S and B.S. degrees in the school of communication engineering of National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 
 ## Contact
 ---
+<img src="res/figure/YCWU.jpg" align = "right">
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
 [Linkedin](https://www.linkedin.com/in/wuyichiao/)  
 [Google scholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
 [Research gate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
 [Github](https://github.com/bigpon)  
-
+  
+<br />   
 ## Experience
 ---
 **Nagoya University**, Japan, *Oct 2017 - Present*.  
@@ -52,9 +54,11 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
+Y. -C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet vocoder," *Proc. SSW*, 2019. [[Paper](https://arxiv.org/abs/1907.08940)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)]
+
 Y. -C. Wu et al., "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.00797)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [Code]  
 
-Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [Demo] [Code]  
+Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstraintWaveNet_demo)] [Code]  
 
 Y. -C. Wu et al., "The NU non-parallel voice conversion system for the voice conversion challenge 2018," *Proc. Odyssey*, 2018. [[Paper](https://pdfs.semanticscholar.org/27da/a6ea602fb26e6570c565bdd5ca9aa78207c7.pdf)] [Demo]  
 
