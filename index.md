@@ -9,13 +9,14 @@ layout: default
 
 ## Contact
 ---
-<img src="res/figure/YCWU.jpg" align = "right">
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
+<img src="res/figure/YCWU.jpg" align = "right">
 [Linkedin](https://www.linkedin.com/in/wuyichiao/)  
 [Google scholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
 [Research gate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
 [Github](https://github.com/bigpon)  
   
+<br /> 
 <br />   
 ## Experience
 ---
