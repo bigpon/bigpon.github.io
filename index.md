@@ -14,12 +14,14 @@ E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp
 [Linkedin](https://www.linkedin.com/in/wuyichiao/)  
 [Google scholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
 [Research gate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
-[Github](https://github.com/bigpon)  
-  
+[Github](https://github.com/bigpon)    
+
 <br /> 
 <br />   
-## Experience
+
+## Experience  
 ---
+
 **Nagoya University**, Japan, *Oct 2017 - Present*.  
 Research assistant  
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)  
@@ -57,7 +59,7 @@ Bachelor of Science
 ---
 Y. -C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet vocoder," *Proc. SSW*, 2019. [[Paper](https://arxiv.org/abs/1907.08940)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)]
 
-Y. -C. Wu et al., "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.00797)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [Code]  
+Y. -C. Wu et al., "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.00797)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [[Code](https://github.com/bigpon/QPNet)]  
 
 Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstraintWaveNet_demo)] [Code]  
 
