@@ -24,7 +24,10 @@ E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp
 
 **Nagoya University**, Japan, *Oct 2017 - Present*.  
 Research assistant  
-Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)  
+Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
+
+**National Institute of Information and Communications Technology**, Japan, *Oct 2019 summer*.  
+Summer intern  
 
 **Academia Sinica**, Taiwan, *Oct 2015 - Sep 2017*.  
 Research assistant  
@@ -61,7 +64,7 @@ Y. -C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet voco
 
 Y. -C. Wu et al., "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.00797)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [[Code](https://github.com/bigpon/QPNet)]  
 
-Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstraintWaveNet_demo)] [Code]  
+Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)] [Code]  
 
 Y. -C. Wu et al., "The NU non-parallel voice conversion system for the voice conversion challenge 2018," *Proc. Odyssey*, 2018. [[Paper](https://pdfs.semanticscholar.org/27da/a6ea602fb26e6570c565bdd5ca9aa78207c7.pdf)] [Demo]  
 
