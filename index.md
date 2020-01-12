@@ -73,5 +73,11 @@ Y. -C. Wu et al., "A post-filtering approach based on locally linear embedding d
 Y. -C. Wu et al., "A locally linear embedding based postfiltering approach for speech enhancement," *Proc. ICASSP*, 2017. [[Paper](https://www.citi.sinica.edu.tw/papers/yu.tsao/5655-F.pdf)] [Demo]  
 
 Y. -C. Wu et al., "Locally linear embedding for exemplar-based spectral conversion," *Proc. Interspeech*, 2016. [[Paper](https://www.iis.sinica.edu.tw/papers/whm/19813-F.pdf)] [Demo]   
+
+## Talk
+---
+2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network" <a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">[ppt]</a>  
+
+2019.9.16 @*Interspeech*, Graz, Austria, "Quasi-Periodic WaveNet Vocoder: A Pitch Dependent Dilated Convolution Model for Parametric Speech Generation" <a href="res/download/20190916_QPNet@Interspeech.pptx" download="20190916_QPNet@Interspeech.pptx">[ppt]</a>
 <br />  
 <br />  
