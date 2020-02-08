@@ -6,6 +6,7 @@ layout: default
 ## About
 ---
 <p align="justify"> I’m a Ph.D. student in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my M.S and B.S. degrees in the school of communication engineering of National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<a href="res/download/20200203_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a>
 
 ## Contact
 ---
