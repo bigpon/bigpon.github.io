@@ -6,7 +6,7 @@ layout: default
 ## About
 ---
 <p align="justify"> I’m a Ph.D. student in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my M.S and B.S. degrees in the school of communication engineering of National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as voice conversion, speech enhancement, and speech bandwidth expansion. </p>
-<a href="res/download/20200420_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a>
+<a href="res/download/20200420_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20200420_Research_YiChiaoWu.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a>
 
 ## Contact
@@ -28,7 +28,7 @@ E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp
 Research assistant  
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
 
-**National Institute of Information and Communications Technology**, Japan, *Oct 2019 summer*.  
+**National Institute of Information and Communications Technology**, Japan, *2019 summer*.  
 Summer intern  
 
 **Academia Sinica**, Taiwan, *Oct 2015 - Sep 2017*.  
@@ -62,7 +62,7 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
-Y.-C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *Proc. IEEE Access*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9050502?denied=)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)] [Code]  
+Y.-C. Wu et al., "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," *Proc. IEEE Access*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9050502?denied=)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)] [Code]  
 
 Y.-C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet vocoder," *Proc. SSW*, 2019. [[Paper](https://arxiv.org/abs/1907.08940)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)]
 
