@@ -8,16 +8,17 @@ layout: default
 <p align="justify"> I am a Ph.D. student (plan to graduate in December 2020) in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my M.S. and B.S. degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20200509_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20200420_Research_YiChiaoWu.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
-<a href="res/download/20200706_Speech_Generation.pptx" download="Speech_Generation.pptx">[Introduction of speech generation]</a>
 
 ## Contact
 ---
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
 <img src="res/figure/YCWU.jpg" align = "right">
-[Linkedin](https://www.linkedin.com/in/wuyichiao/)  
+[Github](https://github.com/bigpon)    
 [Google scholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
 [Research gate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
-[Github](https://github.com/bigpon)    
+[Linkedin](https://www.linkedin.com/in/wuyichiao/)  
+[YouTube](https://www.youtube.com/channel/UCvGzd3EOROwctKsFaC8uhnQ?view_as=subscriber)  
+[Medium](https://medium.com/@bigpon517)
 
 <br /> 
 <br />   
@@ -67,24 +68,26 @@ Y.-C. Wu et al., "Quasi-Periodic parallel WaveGAN vocoder: a non-autoregressive 
 
 Y. -C. Wu et al., "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," *IEEE Access*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9050502)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)]
 
-Y. -C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet vocoder," *In Proc. SSW*, 2019. [[Paper](https://arxiv.org/abs/1907.08940)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [[Code](https://github.com/bigpon/QPNet)]  
+Y. -C. Wu et al., "Statistical voice conversion with Quasi-Periodic WaveNet vocoder," *In Proc. SSW10*, 2019. [[Paper](https://arxiv.org/abs/1907.08940)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [<a href="res/download/20190921_QPNet_VC@SSW10.pdf" download="QPNet_VC@SSW10.pdf">Poster</a>]<br /> 
 
 Y. -C. Wu et al., "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," *In Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.00797)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [[Code](https://github.com/bigpon/QPNet)]  
 
-Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *In Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)]    
+Y. -C. Wu et al., "Collapsed speech segment detection and suppression for WaveNet vocoder," *In Proc. Interspeech*, 2018. [[Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.11055.pdf)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)] [<a href="res/download/20180627_NU_nVC@Odyssey.pdf" download="NU_nVC@Odyssey.pdf">Poster</a>]<br />     
 
-Y. -C. Wu et al., "The NU non-parallel voice conversion system for the voice conversion challenge 2018," *In Proc. Odyssey*, 2018. [[Paper](https://pdfs.semanticscholar.org/27da/a6ea602fb26e6570c565bdd5ca9aa78207c7.pdf)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)]  
+Y. -C. Wu et al., "The NU non-parallel voice conversion system for the voice conversion challenge 2018," *In Proc. Odyssey*, 2018. [[Paper](https://pdfs.semanticscholar.org/27da/a6ea602fb26e6570c565bdd5ca9aa78207c7.pdf)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)] [<a href="res/download/20180904_WN_LPC@Interspeech.pdf" download="WN_LPC@Interspeech.pdf">Poster</a>]<br /> 
 
-Y. -C. Wu et al., "A post-filtering approach based on locally linear embedding difference compensation for speech enhancement," *In Proc. Interspeech*, 2017. [[Paper](https://www.citi.sinica.edu.tw/papers/yu.tsao/5808-F.pdf)]   
+Y. -C. Wu et al., "A post-filtering approach based on locally linear embedding difference compensation for speech enhancement," *In Proc. Interspeech*, 2017. [[Paper](https://www.citi.sinica.edu.tw/papers/yu.tsao/5808-F.pdf)] [<a href="res/download/20170822_LLE_SE_2@Interspeech.pdf" download="LLE_SE_2@Interspeech.pdf">Poster</a>]<br />  
 
-Y. -C. Wu et al., "A locally linear embedding based postfiltering approach for speech enhancement," *In Proc. ICASSP*, 2017. [[Paper](https://www.citi.sinica.edu.tw/papers/yu.tsao/5655-F.pdf)]  
+Y. -C. Wu et al., "A locally linear embedding based postfiltering approach for speech enhancement," *In Proc. ICASSP*, 2017. [[Paper](https://www.citi.sinica.edu.tw/papers/yu.tsao/5655-F.pdf)] [<a href="res/download/20170307_LLE_SE_1@ICASSP.pdf" download="LLE_SE_1@ICASSP.pdf">Poster</a>]<br /> 
 
 Y. -C. Wu et al., "Locally linear embedding for exemplar-based spectral conversion," *In Proc. Interspeech*, 2016. [[Paper](https://www.iis.sinica.edu.tw/papers/whm/19813-F.pdf)]   
 
 ## Talk
 ---
-2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network" <a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">[ppt]</a>  
+2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network." [<a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">ppt</a>]  
 
-2019.9.16 @*Interspeech*, Graz, Austria, "Quasi-Periodic WaveNet Vocoder: A Pitch Dependent Dilated Convolution Model for Parametric Speech Generation" <a href="res/download/20190916_QPNet@Interspeech.pptx" download="20190916_QPNet@Interspeech.pptx">[ppt]</a>
+2019.9.16 @*Interspeech*, Graz, Austria, "Quasi-Periodic WaveNet Vocoder: A Pitch Dependent Dilated Convolution Model for Parametric Speech Generation." [<a href="res/download/20190916_QPNet@Interspeech.pptx" download="20190916_QPNet@Interspeech.pptx">ppt</a>]
+
+2016.9.10 @*Interspeech*, San Francisco, USA, "Locally linear embedding for exemplar-based spectral conversion." [<a href="res/download/20160910_LLE_VC@Interspeech.pptx" download="LLE_VC@Interspeech.pptx">ppt</a>]<br />
 <br />  
 <br />  
