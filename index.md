@@ -64,7 +64,9 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
-Y.-C. Wu et al., "Quasi-Periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation ", *Submitted to Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.08654)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)]  
+Y.-C. Wu et al., "Quasi-Periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," *In Proc. Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.08654)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)]  
+
+Y.-C. Wu et al., "A cyclical post-filtering approach to mismatch refinement of neural vocoder for text-to-speech systems," *In Proc. Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.08659)]  
 
 Y. -C. Wu et al., "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," *IEEE Access*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9050502)] [[Demo](https://bigpon.github.io/LpcConstrainedWaveNet_demo)]
 
