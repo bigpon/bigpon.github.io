@@ -5,13 +5,12 @@ layout: default
 
 ## About
 ---
-<p align="justify"> I am a postdoc in the graduate school of informatics (artificial intelligent group) of Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree in the graduate school of informatics of Nagoya University and M.S. (2011) and B.S. (2009) degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<p align="justify"> I am a postdoc in the graduate school of informatics (artificial intelligent group) at Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree in the graduate school of informatics of Nagoya University and M.S. (2011) and B.S. (2009) degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20210327_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
-<a href="res/download/20210122_PhD_thesis.pdf" download="PhD_thesis_YiChiaoWu.pdf">[Ph.D. thesis]</a><br />
+<a href="res/download/20210122_PhD_thesis.pdf" download="PhD_thesis_YiChiaoWu.pdf">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
 
-<br />  
 
 ## Contact
 ---
@@ -55,7 +54,6 @@ Multimedia BU II
 Research assistant  
 Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-85435692), [Yih-Ru Wang](http://www.eed.nctu.edu.tw/en/faculty/prof/Wang-Yih-Ru-81296519)  
 
-<br /> 
 
 ## Education
 ---
@@ -70,7 +68,6 @@ Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-8
 **National Chiao Tung University**, Taiwan, *Sep. 2005 - Jun. 2009*.  
 Bachelor of Science   
 
-<br /> 
 
 ## Publication (selected)
 ---
@@ -98,7 +95,6 @@ Y. -C. Wu et al., "A locally linear embedding based postfiltering approach for s
 
 Y. -C. Wu et al., "Locally linear embedding for exemplar-based spectral conversion," *in Proc. Interspeech*, 2016. [[Paper](https://www.iis.sinica.edu.tw/papers/whm/19813-F.pdf)]   
 
-<br /> 
 
 ## Talk
 ---
