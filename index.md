@@ -5,11 +5,11 @@ layout: default
 
 ## About
 ---
-<p align="justify"> I am a postdoc in the graduate school of informatics (artificial intelligent group) at Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree in the graduate school of informatics of Nagoya University and M.S. (2011) and B.S. (2009) degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<p align="justify"> I am a postdoc of the graduate school of informatics (artificial intelligent group) at Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree of the graduate school of informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees of the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20210327_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
-<a href="res/download/20210122_PhD_thesis.pdf" download="PhD_thesis_YiChiaoWu.pdf">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
+<a href="http://hdl.handle.net/2237/0002000268">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
 
 
 ## Contact
@@ -17,8 +17,9 @@ layout: default
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
 <img src="res/figure/YCWU.jpg" align = "right">
 [Github](https://github.com/bigpon)    
-[Google scholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
-[Research gate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
+[GoogleScholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
+[ResearchGate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
+[ResearchMap](https://researchmap.jp/wuyichiao)  
 [Publons](https://publons.com/researcher/3751946/yi-chiao-wu)   
 [Linkedin](https://www.linkedin.com/in/wuyichiao/)  
 [YouTube](https://www.youtube.com/channel/UCvGzd3EOROwctKsFaC8uhnQ?view_as=subscriber)  
@@ -52,7 +53,7 @@ Multimedia BU II
 
 **National Chiao Tung University**, Taiwan, *Sep. 2019 - Dec. 2011*.  
 Research assistant  
-Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-85435692), [Yih-Ru Wang](http://www.eed.nctu.edu.tw/en/faculty/prof/Wang-Yih-Ru-81296519)  
+Advisor: [Sin-Horng Chen](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E9%99%B3%E4%BF%A1%E5%AE%8F-85435692), [Yih-Ru Wang](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E7%8E%8B%E9%80%B8%E5%A6%82-81296519)  
 
 
 ## Education
@@ -63,7 +64,7 @@ Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
 
 **National Chiao Tung University**, Taiwan, *Sep. 2019 - Aug. 2011*.  
 Master of Science     
-Advisor: [Sin-Horng Chen](http://www.eed.nctu.edu.tw/en/faculty/Chen-Sin-Horng-85435692), [Yih-Ru Wang](http://www.eed.nctu.edu.tw/en/faculty/prof/Wang-Yih-Ru-81296519)  
+Advisor: [Sin-Horng Chen](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E9%99%B3%E4%BF%A1%E5%AE%8F-85435692), [Yih-Ru Wang](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E7%8E%8B%E9%80%B8%E5%A6%82-81296519)  
 
 **National Chiao Tung University**, Taiwan, *Sep. 2005 - Jun. 2009*.  
 Bachelor of Science   
@@ -71,6 +72,8 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
+Y.-C. Wu et al., "Relational Data Selection for Data Augmentation of Speaker-dependent Multi-band MelGAN Vocoder," *in Proc. Interspeech*, 2021. [[Paper](https://arxiv.org/abs/2106.05629)] [[Demo](https://bigpon.github.io/RelationalDataSelection_demo/)]
+
 Y.-C. Wu et al., "Quasi-Periodic Parallel WaveGAN: A Non-Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network," *IEEE TASLP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/9324976)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)] [[Video](https://youtu.be/yY4WOtPIH-4)]
 
 Y. -C. Wu et al., "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network," in *IEEE TASLP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/9361096)] [[Demo](https://bigpon.github.io/QuasiPeriodicWaveNet_demo)] [[Code](https://github.com/bigpon/QPNet)]
