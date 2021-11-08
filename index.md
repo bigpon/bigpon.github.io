@@ -7,10 +7,9 @@ layout: default
 ---
 <p align="justify"> I am a postdoc of the graduate school of informatics (artificial intelligent group) at Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree of the graduate school of informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees of the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
-<a href="res/download/20210327_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
+<a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
 <a href="http://hdl.handle.net/2237/0002000268">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
-
 
 ## Contact
 ---
@@ -72,7 +71,7 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
-Y.-C. Wu et al., "Relational Data Selection for Data Augmentation of Speaker-dependent Multi-band MelGAN Vocoder," *in Proc. Interspeech*, 2021. [[Paper](https://arxiv.org/abs/2106.05629)] [[Demo](https://bigpon.github.io/RelationalDataSelection_demo/)]
+Y.-C. Wu et al., "Relational Data Selection for Data Augmentation of Speaker-dependent Multi-band MelGAN Vocoder," *in Proc. Interspeech*, 2021. [[Paper](https://www.isca-speech.org/archive/interspeech_2021/wu21g_interspeech.html)] [[Demo](https://bigpon.github.io/RelationalDataSelection_demo/)] [[Video](https://youtu.be/oXDeeDAwtqA)]
 
 Y.-C. Wu et al., "Quasi-Periodic Parallel WaveGAN: A Non-Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network," *IEEE TASLP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/9324976)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)] [[Video](https://youtu.be/yY4WOtPIH-4)]
 
@@ -101,6 +100,8 @@ Y. -C. Wu et al., "Locally linear embedding for exemplar-based spectral conversi
 
 ## Talk
 ---
+2021.10.22 @*BME, NYCU*, Taipei, Taiwan, "Neural-based Speech Generation." [<a href="res/download/20211022_SpeechGen@NYCU.pptx" download="20211022_SpeechGen@NYCU.pptx">ppt</a>]
+
 2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network." [<a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">ppt</a>]  
 
 2019.9.16 @*Interspeech*, Graz, Austria, "Quasi-Periodic WaveNet Vocoder: A Pitch Dependent Dilated Convolution Model for Parametric Speech Generation." [<a href="res/download/20190916_QPNet@Interspeech.pptx" download="20190916_QPNet@Interspeech.pptx">ppt</a>]
