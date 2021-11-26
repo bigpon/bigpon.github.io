@@ -79,7 +79,7 @@ Y. -C. Wu et al., "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Genera
 
 Y.-C. Wu et al., "Quasi-Periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," *in Proc. Interspeech*, 2020. [[Paper](https://isca-speech.org/archive/Interspeech_2020/pdfs/1070.pdf)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)] [[Video](https://youtu.be/yY4WOtPIH-4)]  
 
-Y.-C. Wu et al., "A cyclical post-filtering approach to mismatch refinement of neural vocoder for text-to-speech systems," *in Proc. Interspeech*, 2020. [[Paper](https://isca-speech.org/archive/Interspeech_2020/pdfs/1072.pdf)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Video](https://youtu.be/O_FQvdNRtlo)]   
+Y.-C. Wu et al., "A cyclical post-filtering approach to mismatch refinement of neural vocoder for text-to-speech systems," *in Proc. Interspeech*, 2020. [[Paper](https://isca-speech.org/archive/Interspeech_2020/pdfs/1072.pdf)] [[Demo](https://bigpon.github.io/CycleNeuralPostFilter_demo/)] [[Video](https://youtu.be/O_FQvdNRtlo)]   
 
 Y. -C. Wu et al., "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," *IEEE Access*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9050502)] [[Demo](https://bigpon.github.io/CycleNeuralPostFilter_demo/)]
 
@@ -102,7 +102,7 @@ Y. -C. Wu et al., "Locally linear embedding for exemplar-based spectral conversi
 ---
 2021.10.22 @*BME, NYCU*, Taipei, Taiwan, "Neural-based Speech Generation." [<a href="res/download/20211022_SpeechGen@NYCU.pptx" download="20211022_SpeechGen@NYCU.pptx">ppt</a>]
 
-2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network." [<a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">ppt</a>]  
+2020.1.13 @*CITI, Academia Sinica*, Taipei, Taiwan, "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model with Pitch-dependent Dilated Convolution Neural Network." [<a href="res/download/20200113_QPNet@CITI.pptx" download="20200113_QPNet@CITI.pptx">ppt</a>]  
 
 2019.9.16 @*Interspeech*, Graz, Austria, "Quasi-Periodic WaveNet Vocoder: A Pitch Dependent Dilated Convolution Model for Parametric Speech Generation." [<a href="res/download/20190916_QPNet@Interspeech.pptx" download="20190916_QPNet@Interspeech.pptx">ppt</a>]
 
