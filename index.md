@@ -30,7 +30,7 @@ E-mail: yichiaowu@fb.com
 
 ## Experience  
 ---
-**Reality Labs**, US, *Jan. 2022 - present*.
+**Reality Labs**, US, *Jan. 2022 - present*.  
 Research scientist
 
 **Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*.  
