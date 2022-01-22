@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-### **Postdoc of Graduate School of Informatics, Nagoya University, Japan**  
+### **Research scientist, Reality Labs, Meta, Pittsburgh, PA, US**  
 
 ## About
 ---
-<p align="justify"> I am a postdoc of the graduate school of informatics (artificial intelligent group) at Nagoya University now. I have worked in Academia Sinica, ASUS, and Realtek for 5 years. I received my Ph.D. (2021) degree of the graduate school of informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees of the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<p align="justify"> I'm currently a research scientist at Reality Labs Research Pittsburgh. I have worked in Nagoya University, Academia Sinica, ASUS, and Realtek for more than 6 years. I received my Ph.D. (2021) in the graduate school of informatics at Nagoya University and M.S (2011) and B.S. (2009) degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
@@ -14,6 +14,7 @@ layout: default
 ## Contact
 ---
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
+E-mail: yichiaowu@fb.com  
 <img src="res/figure/YCWU.jpg" align = "right">
 [Github](https://github.com/bigpon)    
 [GoogleScholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
@@ -29,9 +30,15 @@ E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp
 
 ## Experience  
 ---
+**Reality Labs**, US, *Jan. 2022 - present*.
+Research scientist
 
-**Nagoya University**, Japan, *Oct. 2017 - Present*.  
-Research (Oct. 2020 - )  
+**Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*.  
+Postdoc researcher  
+Advisor: [Hsin-Min Wang](https://www.iis.sinica.edu.tw/pages/whm/index_en.html), [Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html)
+
+**Nagoya University**, Japan, *Oct. 2017 - Sep. 2021*.  
+Research (Oct. 2020 - Sep. 2021)  
 Research assistant (Oct. 2017 - Sep. 2020)  
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
 
