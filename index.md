@@ -20,7 +20,7 @@ E-mail: yichiaowu@meta.com
 [GoogleScholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
 [ResearchGate](https://www.researchgate.net/profile/Yi_Chiao_Wu)  
 [ResearchMap](https://researchmap.jp/wuyichiao)  
-[Publons](https://publons.com/researcher/3751946/yi-chiao-wu)   
+[Web of Science](https://www.webofscience.com/wos/author/record/2032533)   
 [Linkedin](https://www.linkedin.com/in/wuyichiao/)  
 [YouTube](https://www.youtube.com/channel/UCvGzd3EOROwctKsFaC8uhnQ?view_as=subscriber)  
 [Medium](https://medium.com/@bigpon517)
