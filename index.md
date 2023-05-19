@@ -14,7 +14,7 @@ layout: default
 ## Contact
 ---
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
-E-mail: yichiaowu@fb.com  
+E-mail: yichiaowu@meta.com  
 <img src="res/figure/YCWU.jpg" align = "right">
 [Github](https://github.com/bigpon)    
 [GoogleScholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
