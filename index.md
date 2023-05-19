@@ -70,7 +70,7 @@ Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
 
 **National Chiao Tung University**, Taiwan, *Sep. 2019 - Aug. 2011*.  
 Master of Science     
-Advisor: [Sin-Horng Chen](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E9%99%B3%E4%BF%A1%E5%AE%8F-85435692), [Yih-Ru Wang](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E7%8E%8B%E9%80%B8%E5%A6%82-81296519)  
+Advisor: [Sin-Horng Chen](https://scholar.google.co.jp/citations?user=PpM_HrcAAAAJ&hl=zh-TW&oi=ao), Yih-Ru Wang  
 
 **National Chiao Tung University**, Taiwan, *Sep. 2005 - Jun. 2009*.  
 Bachelor of Science   
