@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### **Research scientist, Reality Labs, Meta, Pittsburgh, PA, US**  
+### **Research scientist, Reality Labs Research, Meta, Pittsburgh, PA, US**  
 
 ## About
 ---
@@ -30,7 +30,7 @@ E-mail: yichiaowu@meta.com
 
 ## Experience  
 ---
-**Reality Labs**, US, *Jan. 2022 - present*.  
+**Reality Labs Research**, US, *Jan. 2022 - present*.  
 Research scientist
 
 **Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*.  
