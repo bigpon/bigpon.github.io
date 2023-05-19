@@ -59,7 +59,7 @@ Multimedia BU II
 
 **National Chiao Tung University**, Taiwan, *Sep. 2019 - Dec. 2011*.  
 Research assistant  
-Advisor: [Sin-Horng Chen](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E9%99%B3%E4%BF%A1%E5%AE%8F-85435692), [Yih-Ru Wang](https://www.dece.nctu.edu.tw/en/faculty/prof/-%E7%8E%8B%E9%80%B8%E5%A6%82-81296519)  
+Advisor: [Sin-Horng Chen](https://scholar.google.co.jp/citations?user=PpM_HrcAAAAJ&hl=zh-TW&oi=ao), Yih-Ru Wang  
 
 
 ## Education
@@ -78,6 +78,10 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
+Y. -C. Wu et al., "AudioDec: An Open-Source Streaming High-Fidelity Neural Audio Codec," *in Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/document/10096509)] [[Demo](https://bigpon.github.io/AudioDec_demo/)] [[Code](https://github.com/facebookresearch/AudioDec)]
+
+Y.-C. Wu et al., "A Cyclical Approach to Synthetic and Natural Speech Mismatch Refinement of Neural Post-filter for Low-cost Text-to-speech System," *APSIPA Trans.*, 2022. [[Paper](http://dx.doi.org/10.1561/116.00000020)]
+
 Y.-C. Wu et al., "Relational Data Selection for Data Augmentation of Speaker-dependent Multi-band MelGAN Vocoder," *in Proc. Interspeech*, 2021. [[Paper](https://www.isca-speech.org/archive/interspeech_2021/wu21g_interspeech.html)] [[Demo](https://bigpon.github.io/RelationalDataSelection_demo/)] [[Video](https://youtu.be/oXDeeDAwtqA)]
 
 Y.-C. Wu et al., "Quasi-Periodic Parallel WaveGAN: A Non-Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network," *IEEE TASLP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/9324976)] [[Demo](https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo/)] [[Code](https://github.com/bigpon/QPPWG)] [[Video](https://youtu.be/yY4WOtPIH-4)]
