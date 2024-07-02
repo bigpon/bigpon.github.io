@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-### **Research scientist, Reality Labs Research, Meta, Pittsburgh, PA, US**  
+### **Research scientist, FAIR, Meta, NYC, US**  
 
 ## About
 ---
-<p align="justify"> I'm currently a research scientist at Reality Labs Research Pittsburgh. I have worked in Nagoya University, Academia Sinica, ASUS, and Realtek for more than 6 years. I received my Ph.D. (2021) in the graduate school of informatics at Nagoya University and M.S (2011) and B.S. (2009) degrees in the school of communication engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<p align="justify"> I'm currently a research scientist at Meta FAIR, NYC.
+I have worked in Meta Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek for more than 8 years. I received my Ph.D. (2021) in the Graduate School of Informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees in the School of Communication Engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
 <a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
@@ -30,14 +31,16 @@ E-mail: yichiaowu@meta.com
 
 ## Experience  
 ---
-**Reality Labs Research**, US, *Jan. 2022 - present*.  
-Research scientist
+**Meta**, US, *Jan. 2022 - present*.  
+Research scientist  
+FAIR (Oct. 2023 - present)   
+Codec Avatars Lab (Jan. 2022 - Sep. 2023)   
 
-**Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*.  
+**Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*  
 Postdoc researcher  
 Advisor: [Hsin-Min Wang](https://www.iis.sinica.edu.tw/pages/whm/index_en.html), [Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html)
 
-**Nagoya University**, Japan, *Oct. 2017 - Sep. 2021*.  
+**Nagoya University**, Japan, *Oct. 2017 - Sep. 2021*  
 Research (Oct. 2020 - Sep. 2021)  
 Research assistant (Oct. 2017 - Sep. 2020)  
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
@@ -78,6 +81,8 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
+Y. -C. Wu et al., "ScoreDec: A Phase-Preserving High-Fidelity Audio Codec with a Generalized Score-Based Diffusion Post-Filter," *in Proc. ICASSP*, 2024. [[Paper](https://ieeexplore.ieee.org/document/10448371)] [[Demo](https://bigpon.github.io/ScoreDec_demo/)]
+
 Y. -C. Wu et al., "AudioDec: An Open-Source Streaming High-Fidelity Neural Audio Codec," *in Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/document/10096509)] [[Demo](https://bigpon.github.io/AudioDec_demo/)] [[Code](https://github.com/facebookresearch/AudioDec)]
 
 Y.-C. Wu et al., "A Cyclical Approach to Synthetic and Natural Speech Mismatch Refinement of Neural Post-filter for Low-cost Text-to-speech System," *APSIPA Trans.*, 2022. [[Paper](http://dx.doi.org/10.1561/116.00000020)]
