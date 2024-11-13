@@ -60,7 +60,7 @@ Da Vinci Innovation Lab
 System designer  
 Multimedia BU II  
 
-**National Chiao Tung University**, Taiwan, *Sep. 2019 - Dec. 2011*.  
+**National Chiao Tung University**, Taiwan, *Sep. 2009 - Dec. 2011*.  
 Research assistant  
 Advisor: [Sin-Horng Chen](https://scholar.google.co.jp/citations?user=PpM_HrcAAAAJ&hl=zh-TW&oi=ao), Yih-Ru Wang  
 
@@ -71,7 +71,7 @@ Advisor: [Sin-Horng Chen](https://scholar.google.co.jp/citations?user=PpM_HrcAAA
 Ph.D.   
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)  
 
-**National Chiao Tung University**, Taiwan, *Sep. 2019 - Aug. 2011*.  
+**National Chiao Tung University**, Taiwan, *Sep. 2009 - Aug. 2011*.  
 Master of Science     
 Advisor: [Sin-Horng Chen](https://scholar.google.co.jp/citations?user=PpM_HrcAAAAJ&hl=zh-TW&oi=ao), Yih-Ru Wang  
 
