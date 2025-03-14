@@ -81,6 +81,10 @@ Bachelor of Science
 
 ## Publication (selected)
 ---
+S. Welker (intern), ..., Y. -C. Wu (supervisor), "FlowDec: A Flow-based Full-band General Audio Codec with High Perceptual Quality," *in Proc. ICLR*, 2025. [[Paper](https://openreview.net/forum?id=uxDFlPGRLX)] [[Demo](https://sp-uhh.github.io/FlowDec/)] [[Code](https://github.com/facebookresearch/FlowDec)]
+
+Y. -C. Wu et al., "ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling," *in Proc. ICASSP*, 2025. [[Paper](https://ieeexplore.ieee.org/document/10888771)] [[Demo](https://bigpon.github.io/ComplexDec_demo/)]
+
 Y. -C. Wu et al., "ScoreDec: A Phase-Preserving High-Fidelity Audio Codec with a Generalized Score-Based Diffusion Post-Filter," *in Proc. ICASSP*, 2024. [[Paper](https://ieeexplore.ieee.org/document/10448371)] [[Demo](https://bigpon.github.io/ScoreDec_demo/)]
 
 Y. -C. Wu et al., "AudioDec: An Open-Source Streaming High-Fidelity Neural Audio Codec," *in Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/document/10096509)] [[Demo](https://bigpon.github.io/AudioDec_demo/)] [[Code](https://github.com/facebookresearch/AudioDec)]
