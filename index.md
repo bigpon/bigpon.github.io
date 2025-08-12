@@ -7,7 +7,7 @@ layout: default
 ---
 <p align="justify"> I'm currently a research scientist at Meta FAIR, NYC.
 I have worked in Meta Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek for more than 8 years. I received my Ph.D. (2021) in the Graduate School of Informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees in the School of Communication Engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
-<a href="res/download/20210327_CV_YiChiaoWu.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
+<a href="res/download/CV_YiChiaoWu_20250811.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
 <a href="http://hdl.handle.net/2237/0002000268">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
