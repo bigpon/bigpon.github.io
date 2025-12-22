@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-### **Research scientist, FAIR, Meta, NYC, US**  
+### **Ph.D., NYC, US**  
 
 ## About
 ---
-<p align="justify"> I'm currently a research scientist at Meta FAIR, NYC.
-I have worked in Meta Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek for more than 8 years. I received my Ph.D. (2021) in the Graduate School of Informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees in the School of Communication Engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
-<a href="res/download/CV_YiChiaoWu_20250811.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
+<p align="justify"> I have worked at Meta FAIR and Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek for over 10 years. I received my Ph.D. (2021) in the Graduate School of Informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees in the School of Communication Engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<a href="res/download/CV_YiChiaoWu_20251217.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
 <a href="http://hdl.handle.net/2237/0002000268">[Ph.D. thesis]</a> <a href="https://youtu.be/UDVn7sdTQm8">[Video]</a><br />  
@@ -15,7 +14,6 @@ I have worked in Meta Codec Avatars Lab, Nagoya University, Academia Sinica, ASU
 ## Contact
 ---
 E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp  
-E-mail: yichiaowu@meta.com  
 <img src="res/figure/YCWU.jpg" align = "right">
 [Github](https://github.com/bigpon)    
 [GoogleScholar](https://scholar.google.co.jp/citations?user=KKaOQVwAAAAJ&hl=zh-TW)  
@@ -31,17 +29,17 @@ E-mail: yichiaowu@meta.com
 
 ## Experience  
 ---
-**Meta**, US, *Jan. 2022 - present*.  
-Research scientist  
-FAIR (Oct. 2023 - present)   
+**Meta**, US, *Jan. 2022 - Nov. 2025*.  
+Senior research scientist  
+FAIR (Oct. 2023 - Nov. 2025)   
 Codec Avatars Lab (Jan. 2022 - Sep. 2023)   
 
-**Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*  
+**Academia Sinica**, Taiwan, *Oct. 2021 - Dec. 2021*.  
 Postdoc researcher  
 Advisor: [Hsin-Min Wang](https://www.iis.sinica.edu.tw/pages/whm/index_en.html), [Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html)
 
-**Nagoya University**, Japan, *Oct. 2017 - Sep. 2021*  
-Research (Oct. 2020 - Sep. 2021)  
+**Nagoya University**, Japan, *Oct. 2017 - Sep. 2021*.  
+Researcher (Oct. 2020 - Sep. 2021)  
 Research assistant (Oct. 2017 - Sep. 2020)  
 Advisor: [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)
 
