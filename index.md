@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-### **Ph.D., NYC, US**  
+### **Senior Deep Learning Scientist, Santa Clara, CA, US**  
 
 ## About
 ---
-<p align="justify"> I have worked at Meta FAIR and Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek for over 10 years. I received my Ph.D. (2021) in the Graduate School of Informatics at Nagoya University and M.S. (2011) and B.S. (2009) degrees in the School of Communication Engineering at National Chiao Tung University. My research topics focus on speech generation applications based on machine learning methods, such as neural vocoder, voice conversion, speech enhancement, and speech bandwidth expansion. </p>
+<p align="justify"> I am currently a Senior Deep Learning Scientist in NVIDIA Edge AI, working on multimodal conversational AI. With over 10 years of experience across industry and academia, I have worked at Meta FAIR and Codec Avatars Lab, Nagoya University, Academia Sinica, ASUS, and Realtek. I earned my Ph.D. in 2021 from the Graduate School of Informatics at Nagoya University, and my M.S. (2011) and B.S. (2009) degrees from the School of Communication Engineering at National Chiao Tung University. My research interests focus on speech/audio generations and evaluations and voice agent. </p>
 <a href="res/download/CV_YiChiaoWu_20251217.pdf" download="CV_YiChiaoWu.pdf">[Resume]</a><br />
 <a href="res/download/20211014_Publications.pdf" download="Publication_YiChiaoWu.pdf">[Publication list]</a><br />
 <a href="res/download/20210327_Research_Overview.pptx" download="Research_YiChiaoWu.pptx">[Research overview]</a><br />
@@ -29,6 +29,10 @@ E-mail: yichiao.wu@g.sp.m.is.nagoya-u.ac.jp
 
 ## Experience  
 ---
+**NVIDIA**, US, *Jun. 2026 - Present*.  
+Senior deep learning scientist  
+Edge AI   
+
 **Meta**, US, *Jan. 2022 - Nov. 2025*.  
 Senior research scientist  
 FAIR (Oct. 2023 - Nov. 2025)   
